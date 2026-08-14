@@ -2,7 +2,7 @@
 
 An embedded hardware architecture designed for real-time visual sensing, local edge processing, and automotive CAN Bus communication.
 
-![Schematic Diagram](./schematic.png)
+![Schematic Diagram](./SCH_Schematic1_1-P1_2026-08-13.png)
 ## 📌 System Architecture
 
 This project integrates three dedicated hardware modules into a unified edge computing safety node:
