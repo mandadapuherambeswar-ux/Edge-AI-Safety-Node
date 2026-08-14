@@ -1,0 +1,4 @@
+﻿"No.","Quantity","Comment","Designator","Footprint","Value","Manufacturer Part","Manufacturer","Supplier Part","Supplier"
+"1","1","MCP2515 CanBus","1","MCP2515-CAN-MODULE","","","","","Botland"
+"2","1","BLACKPILL","U1","PCB_BLACK_PILL_V2","","","","",""
+"3","1","ESP32-CAM_UP_my","U2","ESP32-CAM_UP_MY","","","","",""
