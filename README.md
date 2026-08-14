@@ -49,3 +49,8 @@ This project integrates three dedicated hardware modules into a unified edge com
 1. Open [EasyEDA Pro](https://pro.easyeda.com/).
 2. Import the project file from the `/hardware` directory.
 3. View or export the schematic and PCB footprints.
+ ---
+
+## 🖥️ PCB Layout & Board Design
+
+![PCB Layout](./PCB_PCB1_2026-08-13.png)
